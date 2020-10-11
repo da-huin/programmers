@@ -2700,8 +2700,7 @@ def solution(n, t, m, p):
     return s[p-1::m][:t]
 ```
 
-
----
+# Programmers Level 3
 
 ## 추석 트래픽
 
